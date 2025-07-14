@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Grace! 👋
 
+Welcome to my profile! I'm currently a software engineering student that's also learning web development on the side. My current goal on this platform is to document my learning and work on creating and contributing to larger projects.
 <!--
 **grace-see/grace-see** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
